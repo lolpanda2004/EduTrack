@@ -24,4 +24,19 @@ To run EduTrack, you’ll need the following:
 - An IDE or code editor (e.g., Eclipse, NetBeans, IntelliJ IDEA)
 - SQLite JDBC library (if not included in your project dependencies)
 
-## Screenshots
+## Working Screenshots
+
+### 1. The Initial Landing frame of the project 
+![1](https://github.com/user-attachments/assets/28dbce2a-c9e1-4a3c-8608-0fb546be4f76)
+
+### 2. Inserting a student's detail into the database
+![2](https://github.com/user-attachments/assets/22208e6f-140f-4efd-86ea-46c71f152c2b)
+![3](https://github.com/user-attachments/assets/366fabba-422c-4cdd-ae70-8169c9d78d71)
+
+### 3. Updating details of a student
+![4](https://github.com/user-attachments/assets/e7db95ea-a099-4ff6-9b79-50acd31d29df)
+![5](https://github.com/user-attachments/assets/73e0cdac-9668-4e0e-bbf4-2a08f4dde7d5)
+
+### 4. Deleting all the details of a student
+![7](https://github.com/user-attachments/assets/029c46a3-2223-471a-9cf8-276dc551a438)
+![6](https://github.com/user-attachments/assets/deb4eefc-c7cf-4e1a-998d-9b69129fc04d)
