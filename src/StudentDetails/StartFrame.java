@@ -38,7 +38,7 @@ public class StartFrame extends javax.swing.JFrame {
         jButton4 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("CREATED BY AKSHAI KRISHNA A");
+        setTitle("CREATED BY LATHIKA DEVANAND");
         setResizable(false);
 
         jLabel1.setFont(new java.awt.Font("Segoe UI Black", 1, 18)); // NOI18N
