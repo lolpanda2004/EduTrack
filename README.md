@@ -40,3 +40,6 @@ To run EduTrack, you’ll need the following:
 ### 4. Deleting all the details of a student
 ![7](https://github.com/user-attachments/assets/029c46a3-2223-471a-9cf8-276dc551a438)
 ![6](https://github.com/user-attachments/assets/deb4eefc-c7cf-4e1a-998d-9b69129fc04d)
+
+### 5. SQLite3 database of the project
+![8](https://github.com/user-attachments/assets/72bbb450-581a-4b3e-8639-b9d3261ba5a4)
